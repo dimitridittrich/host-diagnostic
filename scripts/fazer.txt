@@ -1,0 +1,15 @@
+===========================
+ping kms.empresa.com.br
+telnet kms.empresa.com.br
+===========================
+disco(s)
+marca(s)
+modelo(s)
+tamanho total
+partições
+formato das partições
+espaço disponivel
+espaço ocupado
+===========================
+
+

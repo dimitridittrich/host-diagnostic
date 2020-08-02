@@ -1,0 +1,2 @@
+InterfaceName;InterfaceDescription;MediaConnectionState;MacAddress;LinkSpeed;IpAddress;PrefixLength;IPv4DefaultGateway;DNSServer
+Ethernet;Intel(R) Ethernet Connection (7) I219-V;Connected;04-92-26-C2-B7-5C;1 Gbps;System.Object[];/16;192.168.0.15;100.100.200.1,100.100.0.1,208.67.222.222,208.67.220.220,8.8.8.8
